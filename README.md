@@ -9,5 +9,5 @@
 Columnas ID,<br/> NombreCompleto:string<br/> Promedio:float<br/> Edad:integer<br/> FechaNacimiento:date
 
 <h2>Instrucciones para inicializar</h2>
-1)Clonar repositorio: git clone https://github.com/Josue2712/Evaluacion1-P-JosueAfonso-FernandoRojas.git <br/> 2)Instalar: composer install 3)Configurar archivo .env: mysql, nombre de la base de datos propiedad_bd  <br/> 4)Ejecutar: php artisan migrate:fresh --seed <br/>  5)Inicializar servidor de apache y mysql  <br/> 6)Inicia servidor: php artisan serve  <br/> 7)Accede a: http://127.0.0.1:8000/
+1)Clonar repositorio: git clone https://github.com/Josue2712/Evaluacion1-P-JosueAfonso-FernandoRojas.git <br/> 2)Instalar: composer install <br/> 3)Configurar archivo .env: mysql, nombre de la base de datos propiedad_bd  <br/> 4)Ejecutar: php artisan migrate:fresh --seed <br/>  5)Inicializar servidor de apache y mysql  <br/> 6)Inicia servidor: php artisan serve  <br/> 7)Accede a: http://127.0.0.1:8000/
 </p>
